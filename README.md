@@ -18,10 +18,11 @@ Pour exécuter ce projet, assurez-vous que Python est installé sur votre machin
    python -m venv .venv
 
 3. **Activer l'environnement virtuel** :  
-Sur Windows :
+   Sur Windows :
    ```bash
    .venv\Scripts\activate
-Sur macOS/Linux :
+   Sur macOS/Linux :
    ```bash
-   source .venv/bin/activate 
+   source .venv/bin/activate
 
+  
