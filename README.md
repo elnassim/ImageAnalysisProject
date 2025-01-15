@@ -12,3 +12,16 @@ Pour exécuter ce projet, assurez-vous que Python est installé sur votre machin
    ```bash
    git clone https://github.com/elnassim/ImageAnalysisProject.git
    cd ImageAnalysisProject
+   
+2. **Créer un environnement virtuel** :
+   ```bash
+   python -m venv .venv
+
+3. **Activer l'environnement virtuel** :
+  Sur Windows :
+   ```bash
+   .venv\Scripts\activate
+  Sur macOS/Linux :
+   ```bash
+   source .venv/bin/activate 
+
