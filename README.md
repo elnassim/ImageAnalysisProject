@@ -17,7 +17,8 @@ Pour exécuter ce projet, assurez-vous que Python est installé sur votre machin
    ```bash
    python -m venv .venv
 
-3. **Activer l'environnement virtuel** :
+3. **Activer l'environnement virtuel
+   ** :  
   Sur Windows :
    ```bash
    .venv\Scripts\activate
