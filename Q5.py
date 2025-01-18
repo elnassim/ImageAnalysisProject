@@ -1,3 +1,5 @@
+# GI2 2024-2025 - By Sadki Mohamed and El Kaddaoui Nassim, students at the National School of Applied sciences of Tetouan
+
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
